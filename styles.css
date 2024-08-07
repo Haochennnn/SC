@@ -514,7 +514,7 @@ footer::before {
 }
 
 .text-content {
-    margin-right: 10px; /* Memberikan jarak antara teks dan galeri gambar */
+    margin-right: 20px; /* Memberikan jarak antara teks dan galeri gambar */
     margin-left: 200px;
     margin-top: 70px;
 }
